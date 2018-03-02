@@ -1,7 +1,7 @@
 /*
-* This is a first chapter from book HeadFirst C
-* in this chapter we will learn about basic
-* the goal of this file is to traverse the book.
+* This is first chapter from book Head First C
+* in this chapter we will learn about basics
+* of language C.
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -29,7 +29,7 @@ int main()
         break;
 
         case 'X':
-        break;
+        continue;
 
         default:
          val=atoi(card_name);
