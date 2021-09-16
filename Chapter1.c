@@ -8,7 +8,11 @@
 
 int main()
 {
+<<<<<<< HEAD
     char card_names[3];
+=======
+    char card_named[3];
+>>>>>>> b04027c232bb07cc3a99e2824863611528179efa
     int counter=0;
     while(card_name[0] != 'X')
     {
