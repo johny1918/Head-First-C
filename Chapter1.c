@@ -8,7 +8,7 @@
 
 int main()
 {
-    char card_name[3];
+    char card_named[3];
     int counter=0;
     while(card_name[0] != 'X')
     {
